@@ -6,4 +6,5 @@ gem "github-pages", "~> 198"
 gem "rake", "~> 12.3.2"
 gem 'jekyll-paginate-v2'
 gem "hanuman"
-
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-remote-theme"
