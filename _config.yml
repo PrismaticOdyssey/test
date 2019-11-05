@@ -1,4 +1,4 @@
-theme: hanuman
+remote_theme: "hanuman"
 # Site settings
 title: Hanuman
 description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
@@ -43,6 +43,7 @@ kramdown:
 
 plugins:
   - jekyll-paginate-v2
+  - jekyll-remote-theme
 
 
 # Settings for rake task
